@@ -15,17 +15,15 @@ Haber entendido los conceptos presentados en el capítulo 13 y 14 referente a in
 
 MARCO TEÓRICO
 
-[Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo.pdf](https://github.com/Michael-Andrango/Informe-tarea-7/files/10727992/Negro.Blanco.Oscuro.Minimalista.Fotografia.Comida.Presentacion.de.Video.pdf)
+![Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo](https://user-images.githubusercontent.com/107088999/218621797-ac09bef0-72ea-4d38-b658-6422693d0b6e.jpg)
 
-[Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo (1).pdf](https://github.com/Michael-Andrango/Informe-tarea-7/files/10727997/Negro.Blanco.Oscuro.Minimalista.Fotografia.Comida.Presentacion.de.Video.1.pdf)
+![Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo (1)](https://user-images.githubusercontent.com/107088999/218627116-bdfc2d1b-8c14-4de1-9cb8-b614c3ac3b50.jpg)
 
-[Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo (2).pdf](https://github.com/Michael-Andrango/Informe-tarea-7/files/10728000/Negro.Blanco.Oscuro.Minimalista.Fotografia.Comida.Presentacion.de.Video.2.pdf)
+![Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo (2)](https://user-images.githubusercontent.com/107088999/218627303-a6c4bb44-02ca-44fc-9cfe-fc8831c0b21d.jpg)
 
-[Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo (3).pdf](https://github.com/Michael-Andrango/Informe-tarea-7/files/10728008/Negro.Blanco.Oscuro.Minimalista.Fotografia.Comida.Presentacion.de.Video.3.pdf)
+![Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo (3)](https://user-images.githubusercontent.com/107088999/218627497-eca1d6aa-443b-4524-8d7f-27eb3a453b0d.jpg)
 
-[Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo.pdf](https://github.com/Michael-Andrango/Informe-tarea-7/files/10727990/Negro.Blanco.Oscuro.Minimalista.Fotografia.Comida.Presentacion.de.Video.pdf)
-
-
+![Negro Blanco Oscuro Minimalista Fotografía Comida Presentación de Vídeo (4)](https://user-images.githubusercontent.com/107088999/218627729-7207e6b1-e4d2-4abc-b708-d6f4a0fdd0ea.jpg)
 
 
 
