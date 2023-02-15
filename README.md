@@ -173,15 +173,18 @@ SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
 
 ![image](https://user-images.githubusercontent.com/107088999/219082069-1502c29c-deed-430b-8b89-c6e6a3073f81.png)
 
+4. CONCLUSIONES.
+Se compredió de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo el uso y lectura de ondas seno.
+
+Saber las principales características de un transformador no ideal cómo: resistencia de devanado, pérdidas en el núcleo, capacitancia de devanado y por último, dispersión de flujo magnético..
+
+En el video presentado pudimos desarrollar conocimientos de los aprendido con nuevos temas a exponer y ejercicios.
+
+5. VIDEO
 
 
-
-
-
-
-
-
-
+6. BIBLIOGRAFÍA.
+Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación
 
 
 
